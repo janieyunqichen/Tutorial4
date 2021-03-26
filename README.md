@@ -4,3 +4,4 @@ In this tutorial we are learning to create and merge branches as well as includi
 
 We are going to create branches using the terminal.
 
+I have learned to create and fix a conflict!
